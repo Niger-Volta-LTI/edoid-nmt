@@ -1,2 +1,2 @@
 # edoid-nmt
-Neural Machine Translation for Ẹ̀dó, Ẹ̀sán, Urhobo and Isoko
+Neural Machine Translation for Ẹ̀dó, Ésán, Urhobo and Isoko
